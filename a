@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	<meta charset="utf-8">
+	<title>Моя первая веб-страница</title>
+ </head>
+ <body>
+	<h1>Заголовок страницы</h1>
+	<h1>colo</h1>
+	<p>Основной текст.</p>
+<p>Всем привет</p>
+
+ </body>
+</html>
